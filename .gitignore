@@ -1,0 +1,5 @@
+*~
+/huemorse-server/bin/com/
+/huemorse-server/.settings/
+.classpath
+.project
